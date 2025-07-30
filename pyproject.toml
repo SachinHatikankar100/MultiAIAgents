@@ -1,0 +1,29 @@
+[project]
+name = "MULTI-AGENT-PROJECT"
+version = "0.1"
+description = "Multi AI Agents project"
+authors = [
+  { name="Sachin Hatikankan" }
+]
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+"langchain-core",
+"langchain_groq",
+"langchain_google_genai",
+"langchain-community",
+"pydantic",
+"python-dotenv",
+"streamlit",
+"fastapi",
+"uvicorn",
+"langgraph"
+] 
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["app*"]

@@ -1,0 +1,55 @@
+2025-07-31 01:03:29,705 - INFO - Starting backend...
+2025-07-31 01:03:31,706 - INFO - Starting frontend...
+2025-07-31 01:16:49,864 - INFO - Starting backend...
+2025-07-31 01:16:51,867 - INFO - Starting frontend...
+2025-07-31 01:17:33,675 - INFO - Starting backend...
+2025-07-31 01:17:35,679 - INFO - Starting frontend...
+2025-07-31 01:20:24,976 - INFO - Starting backend...
+2025-07-31 01:20:26,977 - INFO - Starting frontend...
+2025-07-31 01:21:20,667 - ERROR - Error in backend
+2025-07-31 01:21:40,982 - ERROR - Error in backend
+2025-07-31 01:21:41,313 - ERROR - Error in backend
+2025-07-31 01:21:41,540 - ERROR - Error in backend
+2025-07-31 01:26:43,599 - ERROR - Error in backend
+2025-07-31 01:26:50,537 - ERROR - Error in backend
+2025-07-31 01:29:57,869 - ERROR - Error in backend
+2025-07-31 01:30:09,096 - ERROR - Error in backend
+2025-07-31 01:32:22,503 - ERROR - Error in backend
+2025-07-31 01:32:29,904 - ERROR - Error in backend
+2025-07-31 01:32:30,123 - ERROR - Error in backend
+2025-07-31 01:40:40,334 - ERROR - Error in backend
+2025-07-31 01:40:40,624 - ERROR - Error in backend
+2025-07-31 01:40:47,838 - ERROR - Error in backend
+2025-07-31 01:44:34,237 - ERROR - Error in backend
+2025-07-31 01:47:39,893 - ERROR - Error in backend
+2025-07-31 01:47:45,813 - ERROR - Error in backend
+2025-07-31 01:53:38,816 - ERROR - Error in backend
+2025-07-31 01:56:10,967 - INFO - Request sent to backend successfully
+2025-07-31 01:58:26,961 - INFO - Request sent to backend successfully
+2025-07-31 01:58:32,457 - INFO - Request sent to backend successfully
+2025-07-31 01:58:49,099 - INFO - Request sent to backend successfully
+2025-07-31 02:00:24,159 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-31 02:00:24,161 - ERROR - Error in backend
+2025-07-31 02:02:50,011 - INFO - Request sent to backend successfully
+2025-07-31 02:03:07,010 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-31 02:03:07,010 - ERROR - Error in backend
+2025-07-31 02:04:48,115 - INFO - Starting backend...
+2025-07-31 02:04:50,115 - INFO - Starting frontend...
+2025-07-31 02:05:55,790 - INFO - Request sent to backend successfully
+2025-07-31 02:06:04,558 - INFO - Request sent to backend successfully
+2025-07-31 02:06:12,233 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-31 02:06:12,233 - ERROR - Error in backend
+2025-07-31 02:07:33,498 - INFO - Request sent to backend successfully
+2025-07-31 02:07:40,465 - INFO - Request sent to backend successfully
+2025-07-31 02:07:45,126 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-31 02:07:45,126 - ERROR - Error in backend
+2025-07-31 02:07:50,989 - INFO - Request sent to backend successfully
+2025-07-31 02:07:57,741 - INFO - Request sent to backend successfully
+2025-07-31 02:08:02,803 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-31 02:08:02,804 - ERROR - Error in backend
+2025-07-31 02:10:49,866 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-31 02:10:49,866 - ERROR - Error in backend
+2025-07-31 02:14:17,678 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-31 02:14:17,681 - ERROR - Error in backend
+2025-07-31 02:14:26,987 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-31 02:14:26,987 - ERROR - Error in backend

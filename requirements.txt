@@ -1,0 +1,10 @@
+langchain_google_genai
+langchain_groq
+langchain-community
+langchain-core
+langgraph
+streamlit
+FastAPI
+uvicorn
+python-dotenv
+pydantic
